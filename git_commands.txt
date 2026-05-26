@@ -3,3 +3,7 @@ git status
 git add f_name
 git commit -m "added"
 
+git remote add origin link
+git remote -v
+git remote set-url tokenwithlink
+git push origin master
